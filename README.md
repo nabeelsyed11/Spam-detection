@@ -1,13 +1,8 @@
 # Email Spam Detection with Machine Learning
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
-
 ![MasterHead](https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png)
 
 <font size="1">Image Courtesy: https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png</font>
-
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1ggzEa68D7EJ3zerlhMqZAXv5_kC85bYg?usp=sharing)
 
 
 ---
@@ -82,11 +77,6 @@ Email inboxes are now a safer place, thanks to the successful implementation of 
 
 Let's keep our inboxes spam-free and our communications secure.
 
----
-
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
 
 ---
 
